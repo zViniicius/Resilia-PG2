@@ -283,14 +283,15 @@ $('#btnLogin').click((e) => {
 	}
 });
 // validando para nome ficar apenas como text
-const input = document.getElementById("nome");
-input.addEventListener("input", function () {
-  const value = input.value;
-  const regex = /^[a-zA-Z]+$/;
-  if (!regex.test(value)) {
-    input.value = value.slice(0, -1);
-  }
-});
+$(document).ready(function() {
+	$("#nome").on("input", function() {
+	const value = $(this).val();
+	const regex = /^[a-zA-Z]+$/;
+	if (!regex.test(value)) {
+	$(this).val(value.slice(0, -1));
+	}
+	});
+	});
 
 
 
