@@ -1,8 +1,9 @@
 # Enterprise IA
 
 ## FrontEnders
+<img src="https://www.imagemhost.com.br/images/2023/02/02/Captura-de-tela_20230202_033242.png" alt="Captura-de-tela_20230202_033242.png" border="0" />
 
-![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 
 ## <p>🎯 Objetivo:</p> Desenvolver o front-end para apresentar um novo produto lançado pela empresa fictícia FrontEnders.
 
@@ -49,20 +50,22 @@
 <table>
 <tr>
 <td>
-
+<b>João Vitor Evora</b>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorevora/)](https://www.linkedin.com/in/joaovitorevora/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaovitorevora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorevora@gmail.com)](mailto:joaovitorevora@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/joaovitorevora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorevora/)](https://www.linkedin.com/in/joaovitorevora/) [![Github Badge](https://img.shields.io/badge/joaovitorevora-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/joaovitorevora)](https://github.com/joaovitorevora)
 
 </table>
 <table>
   <tr>
   <td>
+  <b>Vinicius Caetano</b>
 <br>
     
-  [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniicaetano/)](https://www.linkedin.com/in/viniicaetano/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaovitorevora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorevora@gmail.com)](mailto:joaovitorevora@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/viniicaetano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniicaetano/)](https://www.linkedin.com/in/viniicaetano/) [![Github Badge](https://img.shields.io/badge/zViniicius-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/zViniicius)](https://github.com/zViniicius)
+
+
+
 
 </td>
 </td>
@@ -72,22 +75,22 @@
 <table>
 <tr>
 <td>
-
+<b>Izabel Mafisa</b>
 <br>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Izabel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabel-mafisa-6aa13722b/)](https://www.linkedin.com/in/izabel-mafisa-6aa13722b/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaovitorevora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorevora@gmail.com)](mailto:joaovitorevora@gmail.com)
+
+
+  [![Linkedin Badge](https://img.shields.io/badge/izabelmafisa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/izabel-mafisa-6aa13722b/)](https://www.linkedin.com/in/izabel-mafisa-6aa13722b/) [![Github Badge](https://img.shields.io/badge/izabelmafisa-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/izabelmafisa)](https://github.com/izabelmafisa)
 
 </table>
 
 <table>
 <tr>
 <td>
-
+<b>Fernando Agostinho</b>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernando-agostinho-pereira-b76399189/)](https://www.linkedin.com/in/fernando-agostinho-pereira-b76399189/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaovitorevora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorevora@gmail.com)](mailto:joaovitorevora@gmail.com)
+
+ [![Linkedin Badge](https://img.shields.io/badge/FernandoAgostinho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-agostinho-pereira-b76399189/)](https://www.linkedin.com/in/fernando-agostinho-pereira-b76399189/) [![Github Badge](https://img.shields.io/badge/fernandoap46-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/fernandoap46)](https://github.com/fernandoap46)
 
 </table>
 
@@ -97,3 +100,4 @@
 Projeto Feito por João Vitor Dias, Vinicius Caetano, Izabel Mafisa e Fernando A. Pereira para Resilia Educação em parceria com a RD.
 
 ---
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
