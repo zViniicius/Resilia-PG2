@@ -63,6 +63,7 @@ $(document).ready(function () {
 			e.preventDefault();
 			UserRequest();
 			$(this).prop('disabled', 'true');
+			$(this).prop('placeholder', 'Que tal uma pergunta?');
 			setTimeout(() => {
 				$(this).removeAttr('disabled');
 				$(this).focus();
@@ -79,8 +80,8 @@ $(document).ready(function () {
 });
 
 const checkInput = () => {
-	let userReqInput = `${userRequestInput.val()}`;
-	(userReqInput.trim().split(' ').length < 2 && userReqInput == 'Oi') ||
+	let userReqInput = `${userRequestInput.val().trim()}`;
+	(userReqInput.split(' ').length < 2 && userReqInput == 'Oi') ||
 	userReqInput == 'oi' ||
 	userReqInput == 'OI' ||
 	userReqInput == 'Oi' ||
@@ -173,6 +174,7 @@ const UserRequest = () => {
 				setTimeout(() => {
 					BotResponse();
 					autoScroll();
+					$('#inputMsg').prop('placeholder', 'Que tal uma pergunta?');
 					userRequestInput.val('');
 				}, 500);
 			}, 1500);
