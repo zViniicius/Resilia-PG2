@@ -4,7 +4,7 @@
 <img src="https://www.imagemhost.com.br/images/2023/02/02/Captura-de-tela_20230202_033242.png" alt="Captura-de-tela_20230202_033242.png" border="0" />
 
 
-
+⚠Para utilizar o Chatbot, use sua API do chatGPT. ⚠
 ## <p>🎯 Objetivo:</p> Desenvolver o front-end para apresentar um novo produto lançado pela empresa fictícia FrontEnders.
 
 ​
