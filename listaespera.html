@@ -83,7 +83,7 @@
 								id="rg"
 								name="rg"
 								placeholder="RG- Apenas números*"
-								class="form-control input-md bg-transparent border-bottom border-success"
+								class="form-control input-md bg-transparent border-0"
 								required=""
 								type="text"
 								maxlength="11"
@@ -105,7 +105,7 @@
 						<div class="instrucaop w-50">
 							<input
 								type="password"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								id="password"
 								minlength="6"
 								maxlength="12"
@@ -115,7 +115,7 @@
 						<div class="instrucaop w-50">
 							<input
 								type="password"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								id="password2"
 								minlength="6"
 								maxlength="12"
@@ -133,7 +133,7 @@
 								id="cep"
 								name="cep"
 								placeholder="CEP- Apenas números"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								required=""
 								value=""
 								maxlength="9"
@@ -141,10 +141,10 @@
 								pattern="[0-9]+$"
 								onkeypress="$(this).mask('00000-000');" />
 						</div>
-						<div class="instrucaop w-25">
+						<div class="d-flex align-items-center justify-content-center w-25 mt-3">
 							<button
 								type="button"
-								class="btn btn-primary"
+								class="btn btn-success"
 								id="pesquisarCEP"
 								onclick="pesquisarCEP()">
 								Pesquisar
@@ -157,7 +157,7 @@
 							<input
 								id="rua"
 								name="rua"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								placeholder="Rua"
 								required=""
 								readonly="readonly"
@@ -167,7 +167,7 @@
 							<input
 								id="numero"
 								name="numero"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								placeholder="Numero"
 								required=""
 								type="text" />
@@ -180,7 +180,7 @@
 								id="cidade"
 								placeholder="Cidade"
 								name="cidade"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								placeholder=""
 								required=""
 								readonly="readonly"
@@ -191,18 +191,18 @@
 								id="estado"
 								name="estado"
 								placeholder="Estado"
-								class="form-control input-md bg-transparent border-bottom border-dark"
+								class="form-control input-md bg-transparent border-bottom"
 								placeholder=""
 								required=""
 								readonly="readonly"
 								type="text" />
 						</div>
 					</div>
-					<div class="instrucaop w-25">
+					<div class="d-flex w-100 justify-content-center align-items-center mt-3">
 						<button
 							type="button"
 							id="btnRegister"
-							class="btn btn-primary"
+							class="btn btn-success"
 							id="enviarlist"
 							onclick="javascript:void(0)">
 							Enviar

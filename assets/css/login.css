@@ -46,11 +46,12 @@
 	margin-bottom: 0;
 	margin-left: 1%;
 	margin-right: 1%;
+	border-bottom:solid black 1px !important;
 }
 
 .linha {
 	height: auto;
-	margin-bottom: solid black;
+	/* margin-bottom: solid black; */
 }
 .login-title1 {
 	margin-top: 1%;
@@ -70,3 +71,4 @@
 .container{
 	padding: 1%;
 }
+
