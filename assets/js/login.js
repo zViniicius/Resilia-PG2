@@ -209,7 +209,7 @@ $('#btnRegister').click(() => {
 			});
 
 			setTimeout(() => {
-				window.location.href = 'index.html';
+				window.location.href = 'login.html';
 			}, 1500);
 		} else {
 			swal.fire({
@@ -222,6 +222,7 @@ $('#btnRegister').click(() => {
 		}
 	}
 });
+
 
 $('#btnLogin').click((e) => {
 	e.preventDefault();
