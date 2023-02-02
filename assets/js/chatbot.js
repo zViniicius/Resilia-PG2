@@ -12,7 +12,7 @@ const API = async (UserInput) => {
 		method: 'POST',
 		headers: {
 			'Content-Type': 'application/json',
-			Authorization: 'Bearer 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',
+			Authorization: 'Bearer <Insira sua Chave AQUI>',
 		},
 		body: JSON.stringify({
 			prompt: UserInput,
